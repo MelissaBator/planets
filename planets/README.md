@@ -1,3 +1,4 @@
 Something
 Additional text
-conflicting text
+Third change
+
